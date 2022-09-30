@@ -5,7 +5,7 @@ import Education from "./Education";
 function App() {
   
   return (
-    <div>
+    <div className="flex flex-col justify-center items-center gap-4">
       <Personal />
       <Experience />
       <Education />
