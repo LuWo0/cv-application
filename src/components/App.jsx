@@ -1,11 +1,14 @@
 import Personal from "./Personal";
+import Experience from "./Experience";
+import Education from "./Education";
 
 function App() {
   
-
   return (
     <div>
-      <Personal/>
+      <Personal />
+      <Experience />
+      <Education />
     </div>
   )
 }
