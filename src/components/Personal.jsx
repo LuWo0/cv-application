@@ -39,7 +39,7 @@ const Personal = () => {
     }
     return (
         <>
-            <div className="w-full max-w-md appearance-none ">
+            <div className="w-full max-w-md appearance-none pt-20">
                 <form className=" bg-neutral-50 shadow-md rounded pl-28 pt-6 pb-8 mb-4">
                     <div className="mb-4">
                         <label htmlFor="firstName" 
