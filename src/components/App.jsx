@@ -1,9 +1,11 @@
+import Personal from "./Personal";
+
 function App() {
   
 
   return (
     <div>
-      Hello world
+      <Personal/>
     </div>
   )
 }
